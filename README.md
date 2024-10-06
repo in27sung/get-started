@@ -1,7 +1,7 @@
 # About GitHub and Git 
-About GitHub
-About Git
-where do I start?
-Next steps
-Further reading
+About GitHub <br>
+About Git <br>
+where do I start? <br>
+Next steps <br>
+Further reading <br>
 
